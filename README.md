@@ -1,1 +1,3 @@
-README: 0x11. C - printf Project at ALX Software Engineering 
+README: 
+
+printf Project at ALX Software Engineering by  team: Monday Odoh, ABDULKADIR BADAMASI
