@@ -2,7 +2,7 @@
 
 
 /**
- * print_int - prints an integer
+ * print_int - Prints an integer to the standard output
  * @l: va_list of arguments from _printf
  * @f: pointer to the struct flags determining
  * if a flag is passed to _printf
