@@ -4,11 +4,11 @@ Description
 
 printf Project at ALX Software Engineering by  team: Monday Odoh, ABDULKADIR BADAMASI.
 
-This team project is part of the first print ALX software Engineering curriculum. _printf replicates the C standard library printf() function.
+This team project is part of the first printf ALX software Engineering curriculum. _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
 
-How to use git in a team setting
+How to collaboratively use git in a team setting
 Applying variadic functions to a big project
 The complexities of printf
 Managing a lot of files and finding a good workflow 
@@ -19,7 +19,7 @@ int _printf(const char *format, ...);
 
  Usage
 
-Prints a string to the standard output, according to a given format
+Prints a string to the standard output, according to a given format.
 All files were created and compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 Returns the number of characters in the output string on success, -1 otherwise
 Call it this way: _printf("format string", arguments...) where format string can contain conversion specifiers and flags, along with regular characters
@@ -141,4 +141,3 @@ Handle the following custom conversion specifier:
 15.*
 
 All the above options work well together.
-
