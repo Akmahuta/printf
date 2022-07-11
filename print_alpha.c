@@ -20,9 +20,9 @@ int print_string(va_list l, flags_t *f)
 }
 
 /**
- * print_char - prints a character
+ * print_char - Prints a character
  * @l: va_list arguments from _printf
- * @f: pointer to the struct flags that determines
+ * @f: Pointer to the struct flags that determines
  * if a flag is passed to _printf
  * Return: number of char printed
  */
