@@ -73,5 +73,7 @@ int print_address(va_list l, flags_t *f);
 /* print_percent */
 int print_percent(va_list l, flags_t *f);
 
+/* printlint */
+int prinlint(va_list arguments, char *buf, unsigned int ibuf);
 
 #endif
